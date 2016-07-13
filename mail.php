@@ -13,7 +13,7 @@ $msg = $_POST['comments'];
 /* Desarrollo */
 $api_key = 'key-eb656047b090ea091ef7c5d2fbd83dc5';
 // $send_to = '';
-$send_to = 'mauriciodinki@gmail.com';
+$send_to = 'dan@lovanworldwide.com';
 
 $mgClient = new Mailgun($api_key);
 $domain = "sandbox3bfa1334fbee4dcca5b08a9b34b46337.mailgun.org";
