@@ -618,7 +618,7 @@ h1.error {
         left: 46%;
     }
     .contact-us a {
-        right: 46%;
+        right: 50%;
     }
 }
 @media only screen and (max-device-width: 600px) {
@@ -626,7 +626,7 @@ h1.error {
         left: 44%;
     }
     .contact-us a {
-        right: 44%;
+        right: 50%;
     }
     .features li {
         width: 100%;
